@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mika Nascimento
+# Mika Nascimento 
 
 <sub>
 Programming student passionate about technology and software development.<br>
