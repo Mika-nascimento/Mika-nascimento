@@ -1,64 +1,46 @@
 <div align="center">
 
-# Mikaelle Nascimento 
+# Mikaelle Nascimento
 
-<sub>
-Programming student passionate about technology and software development.<br>
-Currently learning programming fundamentals, web development, and data-related tools.<br>
-I am building small projects to improve my skills and develop a strong portfolio while continuously learning.
-</sub>
+**Estatística e Ciência de Dados (UFES) · SQL · Business Intelligence · Fraud Analytics**
+
+Analista de Prevenção à Fraude no PicPay, com experiência em análise de dados transacionais, identificação de inconsistências, indicadores operacionais e melhoria de processos.
+
+[LinkedIn](https://www.linkedin.com/in/mikaellenascimento/) · [Currículo Lattes](http://lattes.cnpq.br/2745505136388232) · [Portfólio no GitHub](https://github.com/Mika-nascimento/portfolio)
 
 </div>
 
 ---
 
-## Tech Stack
+### Sobre mim
+
+Sou graduanda em **Estatística e Ciência de Dados na UFES** e atuo em prevenção à fraude no setor financeiro. Tenho interesse em aplicar **SQL, estatística e visualização de dados** à resolução de problemas de negócio, com análises claras e fundamentadas em evidências.
+
+Minha trajetória também inclui experiência em operações comerciais B2B e iniciativas de automação e melhoria contínua. Participo do **Programa Embaixadores Estudantis do Google**, com interesse em inteligência artificial e tecnologias emergentes.
+
+### Projetos em destaque
+
+| Projeto | O que você encontra |
+| --- | --- |
+| **[Análise de Fraude Transacional com SQL](https://github.com/Mika-nascimento/sql-fraude-portfolio)** | Análises em SQL com JOINs, CTEs, subconsultas e window functions, usando dados **100% sintéticos** gerados em Python e SQLite. |
+| **[Portfólio profissional](https://github.com/Mika-nascimento/portfolio)** | Site com apresentação profissional em português e inglês, desenvolvido com React, TypeScript e Vite. |
+| **[HTML para iniciantes](https://github.com/Mika-nascimento/curso-html-iniciante)** | Páginas didáticas, exercícios e projeto prático de introdução ao HTML e CSS. |
+
+### Tecnologias e interesses
+
+**Análise e BI:** SQL · Tableau · Power BI · Excel · indicadores operacionais  
+**Programação:** Python (em desenvolvimento) · HTML · CSS  
+**Interesses:** Ciência de Dados · Estatística Aplicada · Business Analytics · Prevenção à Fraude · Inteligência Artificial
+
+### Formação e experiência
+
+- **UFES:** graduação em Estatística e Ciência de Dados, em andamento.
+- **PicPay:** Analista de Prevenção à Fraude (2025–atual).
+- **Grupo Autoglass:** Consultora de Vendas B2B (2024–2025).
+
+---
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge\&logo=css3\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
+  <sub>Projetos pessoais e acadêmicos. Nenhum dado confidencial de clientes ou empregadores é divulgado neste perfil.</sub>
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mika-nascimento&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mika-nascimento&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Learning Progress
-
-```
-HTML    ▰▰▰▰▰▰▰▱▱ 70%
-Python  ▰▰▰▰▰▰▱▱▱ 65%
-CSS     ▰▰▰▰▱▱▱▱▱ 40%
-Java    ▰▰▰▱▱▱▱▱▱ 30%
-```
-
----
-
-## Current Projects
-
-• Python scripts and exercises
-• Simple web pages with HTML and CSS
-• Programming logic experiments
-
----
-
-## Goals
-
-• Improve Python skills
-• Learn more web development
-• Build more complex projects
-• Create a strong programming portfolio
